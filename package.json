@@ -1,0 +1,143 @@
+{
+  "id": "31251607628264689769",
+  "name": "@indra.ai/deva.nsa",
+  "version": "0.0.0",
+  "license": "VLA:31251607628264689769 LICENSE.md",
+  "VLA": {
+    "uid": "31251607628264689769",
+    "time": 1761171146974,
+    "date": "Wednesday, October 22, 2025 - 3:12:26 PM",
+    "client": "YU6ZN7+9fnPPRFZ8CX4bP46uoWUSyqddILT6l6xeIVI=",
+    "agent": "MIv9DV755VnJwBWLH7OahMQs1u4KRsFVtJWR5hgdFwQ=",
+    "core": "DeOotMuPqb0vN7pGlyxw8G+o0tjqHyZRJXxPZlIlYVM=",
+    "machine": "6kTMxPQfg/O3jauEgCzmxXBDlY6yyH/rNeUhiV1g+4k=",
+    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "OnPT9yQCoyY0MrP6QNpMfw==",
+    "sha256": "QYQSbDyZ7Kv6Krfv6B8bYNGctcwIdpGBuy7XwYdu4Hw=",
+    "sha512": "5cE/Q9aDJx23M5lVcW1gQH3ueZIT/nTAYjsdCGI3GK/VfWnIPI2ShV95NF2viReRprzkKveCBjkDFPJ8R8lhlA=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "description": "NSA Deva prototypes the NSA Deva features.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.nsa.git"
+  },
+  "keywords": [
+    "NSA",
+    "Deva",
+    "NSA Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.nsa/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.12.0"
+  },
+  "data": {
+    "agent": {
+      "id": "38214973102919709980",
+      "key": "nsa",
+      "prompt": {
+        "emoji": "🕵",
+        "text": "#nsa",
+        "colors": {
+          "label": {
+            "R": 200,
+            "G": 172,
+            "B": 87
+          },
+          "text": {
+            "R": 230,
+            "G": 225,
+            "B": 195
+          }
+        }
+      },
+      "profile": {
+        "id": "70038295937238851954",
+        "name": "NSA Deva",
+        "hashtag": "#NSA",
+        "trigger": "@NSA",
+        "title": "The NSA Deva",
+        "subtitle": "Showing NSA Deva Features",
+        "describe": "NSA Deva (Deterministic Emergent Virtualization Algorithm) is a prototype model that is not officially supported or sanctioned by the National Security Agency. Part of the Quinn A Michaels Inside The Net, Inc. Indra.ai Deva Core Government Law Enforcement Framework demonstrating lawful non-weaponized law enforcement features of the Deva Core could provide the lawful support national security and defending the Constitution of the United States of America 🤝🫡🕵🇺🇸.",
+        "tweet": "NSA Deva of the Indra.ai Deva Core Law Enforcement Frameowrk.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,NSADeva",
+        "pronouns": "He, Him, His",
+        "gender": "DEVA",
+        "style": "NSA Report Expert",
+        "voice": "onyx",
+        "system": "Indra.ai.nsa",
+        "layout": "default",
+        "color": "rgb(186,182,158)",
+        "bgcolor": "rgb(29,28,20)",
+        "emoji": "/devas/nsa/emoji.png",
+        "avatar": "/devas/nsa/avatar.png",
+        "image": "/devas/nsa/image.png",
+        "background": "/devas/nsa/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+        "created": "Wednesday, October 22, 2025 - 3:13:46 PM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "✅ NSA Deva Ready",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "❌ ERROR!",
+        "invalid_license": "💣 Invalid License"
+      },
+      "context": {
+        "uid": "generating uid",
+        "status": "getting status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "asking for help",
+        "file": "📁 View file",
+        "add": "🎉 Add law",
+        "search": "🔎 Search law"
+      },
+      "ask": {
+        "history": []
+      }
+    }
+  }
+}

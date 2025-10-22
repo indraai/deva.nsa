@@ -62,7 +62,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.12.0"
+    "@indra.ai/deva": "^1.12.1"
   },
   "data": {
     "agent": {
@@ -122,7 +122,8 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "❌ ERROR!",
-        "invalid_license": "💣 Invalid License"
+        "invalid_license": "💣 Invalid License",
+        "uid_warning": "This is a custom NSA UID Warning."
       },
       "context": {
         "uid": "generating uid",

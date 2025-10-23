@@ -62,12 +62,13 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.14.0"
+    "@indra.ai/deva": "^1.16.2"
   },
   "data": {
     "agent": {
       "id": "38214973102919709980",
       "key": "nsa",
+      "uid_warning": "This is a custom NSA UID Warning.",
       "prompt": {
         "emoji": "🕵",
         "text": "#nsa",
@@ -122,8 +123,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "❌ ERROR!",
-        "invalid_license": "💣 Invalid License",
-        "uid_warning": "This is a custom NSA UID Warning."
+        "invalid_license": "💣 Invalid License"
       },
       "context": {
         "uid": "generating uid",

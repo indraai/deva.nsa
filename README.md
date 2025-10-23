@@ -1,5 +1,5 @@
 # deva.nsa
-The NSA Deva a prototype Deva that is not official or supported by the National Security Agency but meant to provide a CIA VLA prototype for demonstration purposes only at this time.
+The NSA Deva a prototype Deva that is not official or supported by the National Security Agency but meant to provide a NSA VLA prototype for demonstration purposes only at this time.
 
 Copyright ©2025 Quinn A Michaels; All rights reserved.  
 Legal Signature Required For Lawful Use.  

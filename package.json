@@ -62,7 +62,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.19.0"
+    "@indra.ai/deva": "^1.20.2"
   },
   "data": {
     "agent": {
@@ -108,7 +108,7 @@
         "background": "/devas/nsa/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "uid_warning": "This is a Custom Unofficial NSA UID Warning for the NSA Deva Prototype.",
+        "warning": "This is a Custom Unofficial NSA Warning for the Unofficial Demonstration Purposes Only National Security Agency NSA Deva Prototype.",
         "copyright": "Copyright ©2025 Quinn A Michaels, U.S. National Security Agency (NSA); All rights reserved.",
         "created": "Wednesday, October 22, 2025 - 3:13:46 PM",
         "status": "unofficial"

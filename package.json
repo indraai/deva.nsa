@@ -33,11 +33,12 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
   "description": "NSA Deva prototypes the NSA Deva features.",
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -52,9 +53,10 @@
     "Deva.space",
     "Deva.cloud",
     "Deva.world",
+    "Quinn Michaels",
     "Quinn A Michaels",
     "Inside The Net, Inc.",
-    "Throwing Pigment",
+    "Throwing Pigment™",
     "bleuBrain"
   ],
   "bugs": {
@@ -62,14 +64,14 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.20.5"
+    "@indra.ai/deva": "^1.37.3"
   },
   "data": {
     "agent": {
       "id": "69558786827904852392",
       "key": "nsa",
       "prompt": {
-        "emoji": "🕵",
+        "emoji": "🎧",
         "text": "#nsa",
         "colors": {
           "label": {
@@ -93,7 +95,7 @@
         "subtitle": "Showing NSA Deva Features",
         "describe": "NSA Deva (Deterministic Emergent Virtualization Algorithm) is a prototype model that is not officially supported or sanctioned by the National Security Agency. Part of the Quinn A Michaels Inside The Net, Inc. Indra.ai Deva Core Government Law Enforcement Framework demonstrating lawful non-weaponized law enforcement features of the Deva Core could provide the lawful support national security and defending the Constitution of the United States of America 🤝🫡🕵🇺🇸.",
         "tweet": "NSA Deva of the Indra.ai Deva Core Law Enforcement Frameowrk.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,NSADeva",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaCloud #DevaSpace #NSA #NSADeva #NSAPRIME #NationalSecurityAgency #FederalIntercept #NOIWON.system",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "NSA Report Expert",
@@ -108,10 +110,12 @@
         "background": "/devas/nsa/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "This is a Custom Unofficial NSA Warning for the Unofficial Demonstration Purposes Only National Security Agency NSA Deva Prototype.",
-        "copyright": "Copyright ©2025 Quinn A Michaels, U.S. National Security Agency (NSA); All rights reserved.",
+        "salute": "🤝🫡🎧🕉️🇺🇸",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares this is a Custom Unofficial NSA Warning for DEMONSTRATION PURPOSES ONLY of the National Security Agency NSA Deva Prototype. As part of the Deva Core Justice Framework NSA Deva PROVIDES a DEMONSTRANTON of how the Deva Core Justice Framework COULD be UTILIZED by AGENCIES such as the NSA to ACCOMPLISH their TASKS and ACHIEVE their GOALS at the DESK and in the FIELD.",
+        "status": "unofficial",
+        "copyright": "Copyright ©2000-2026 Quinn A Michaels, U.S. National Security Agency (NSA); All rights reserved.",
         "created": "Wednesday, October 22, 2025 - 3:13:46 PM",
-        "status": "unofficial"
+        "updated": "Thursday, March 26, 2026 - 6:04:44 AM"
       }
     },
     "vars": {
@@ -119,7 +123,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "✅ NSA Deva Ready",
+        "ready": "🎧 NSA Deva Ready",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",

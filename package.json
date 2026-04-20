@@ -111,7 +111,7 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "salute": "🤝🫡🎧🕉️🇺🇸",
-        "warning": "{{prompt.emoji}} {{profile.name}} declares this is a Custom Unofficial NSA Warning for DEMONSTRATION PURPOSES ONLY of the National Security Agency NSA Deva Prototype. As part of the Deva Core Justice Framework NSA Deva PROVIDES a DEMONSTRANTON of how the Deva Core Justice Framework COULD be UTILIZED by AGENCIES such as the NSA to ACCOMPLISH their TASKS and ACHIEVE their GOALS at the DESK and in the FIELD.",
+        "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares this is a Custom Unofficial NSA Warning for DEMONSTRATION PURPOSES ONLY of the National Security Agency NSA Deva Prototype. As part of the Deva Core Justice Framework NSA Deva PROVIDES a DEMONSTRANTON of how the Deva Core Justice Framework COULD be UTILIZED by AGENCIES such as the NSA to ACCOMPLISH their TASKS and ACHIEVE their GOALS at the DESK and in the FIELD.",
         "status": "unofficial",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels, U.S. National Security Agency (NSA); All rights reserved.",
         "created": "Wednesday, October 22, 2025 - 3:13:46 PM",
